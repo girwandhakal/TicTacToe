@@ -28,7 +28,7 @@ Manages the state of the game, including the history of moves, the current move,
 
 # Getting Started
 
-## Prerequisites
+### Prerequisites
 
 - Node.js and npm installed
 
@@ -41,14 +41,14 @@ git clone https://github.com/your-username/tic-tac-toe-react.git
 cd tic-tac-toe-react
 ```
 
-##Install the dependencies:
+### Install the dependencies:
 
 ```bash
 npm install
 ```
 
 
-##Running the app:
+### Running the app:
 
 ```bash
 npm start
@@ -56,7 +56,7 @@ npm start
 Open http://localhost:3000 to view the app in the browser.
 
 
-#Usage
+## Usage
 
 Click on any square to make a move.
 The game status will update to show whose turn it is or if there's a winner/draw.
