@@ -25,3 +25,43 @@ Handles the logic for the game board, including rendering squares and determinin
 ### Game
 
 Manages the state of the game, including the history of moves, the current move, and the sorting of the move history.
+
+# Getting Started
+
+## Prerequisites
+
+- Node.js and npm installed
+
+## Installation
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/your-username/tic-tac-toe-react.git
+cd tic-tac-toe-react
+```
+
+##Install the dependencies:
+
+```bash
+npm install
+```
+
+
+##Running the app:
+
+```bash
+npm start
+```
+Open http://localhost:3000 to view the app in the browser.
+
+
+#Usage
+
+Click on any square to make a move.
+The game status will update to show whose turn it is or if there's a winner/draw.
+Use the buttons in the game info section to navigate through the move history.
+Click the "Sort Ascending"/"Sort Descending" button to toggle the move history order.
+Click the "Reset Game" button to start a new game.
+
+
